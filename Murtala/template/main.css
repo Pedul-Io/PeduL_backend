@@ -26,7 +26,14 @@
 .loop {
   height: 500px;
   padding-top: 45px;
-  background-color: #000000;
+  background-color: #D80000;
+}
+
+.loop p {
+  font-size: 28px;
+  color: #3399FF;
+  padding-top: 200px;
+  padding-left: 550px;
 }
 
 .jumbotron {
