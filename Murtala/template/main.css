@@ -40,6 +40,31 @@
   top: 10px;
 }
 
+.jumbotron p {
+  font-size: 50px;
+  font-weight: bold;
+  color: #FFD6C2;
+  text-transform: uppercase;
+  padding-top: 150px;
+  padding-left: 100px;
+}
+
+.jumbotron h6 {
+  font-size: 30px;
+  text-transform: uppercase;
+  padding-top: 30px;
+  padding-left: 250px;
+  color: #FFD6C2;
+}
+
+.jumbotron h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: #BCE8F7;
+  padding-top: 80px;
+  padding-left: 600px;
+}
+
 .mission_statement {
     background-image: url('7adc2313538abb570049b1da90c8d658.jpg');
     height: 800px;
@@ -54,12 +79,13 @@
   font-size: 20px;
   text-transform: uppercase;
   padding-top: 150px;
-  color: #663333;
+  color: #993333;
 }
 
 
 .mission_statement a {
     font-size: 18px;
+    color: #000033;
 }
 
 .learn-more {
