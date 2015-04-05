@@ -1,68 +1,70 @@
-.nav {
+.nav_bar {
     background-color: #FFFFFF;
-    opacity: 0.7;
-    filter: alpha(opacity=80);
+    opacity: 0.5;
     position: fixed;
+    height:45px;
     width: 100%;
-}
-
-.nav a {
   color: #5a5a5a;
-  font-size: 11px;
-  font-weight: bold;
-  padding: 14px 10px;
-  text-transform: uppercase;
 }
 
-.nav li {
+.nav_bar a {
+  font-size: 13px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 100px 100px 100px 100px;
+}
+
+.nav_bar li {
   display: inline;
 }
 
-.nav ul ul {
+.nav_bar ul ul {
   display: none;
-  padding: 15px 60px;
+  padding: 10px 125px;
 }
 
-.nav ul li:hover > ul {
-  display: block;
-}
-
-.nav ul ul li {
-  display: block;
+.loop {
+  height: 500px;
+  padding-top: 45px;
+  background-color: #000000;
 }
 
 .jumbotron {
   background-image: url('9b635d7ccb865688440baf13cdfda3c8.jpg');
-  height: 600px;
+  height: 800px;
   background-repeat: no-repeat;
   background-size: cover;
-  border-top: 68px solid #ffffff;
 }
 
 .jumbotron .container {
   position: relative;
-  top:10px;
+  top: 10px;
 }
 
-.jumbotron h2 {
-  color: #FCFEE5;
-  font-size: 30px;  
-  font-family: 'Shift', sans-serif;
-  font-weight: bold;
+.mission_statement {
+    background-image: url('7adc2313538abb570049b1da90c8d658.jpg');
+    height: 800px;
+    border-bottom: 3px solid #dbdbdb;
+    border-top: 2px solid #dbdbdb;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-.jumbotron p {
-  font-size: 14px;
+
+.mission_statement p {
+  font-size: 20px;
   text-transform: uppercase;
-  color: #FFE4E1;
+  padding-top: 200px;
+  color: #663333;
 }
 
-.jumbotron a {
-    font-size: 14px;
+.mission_statement a {
+    font-size: 18px;
 }
 
 .learn-more {
   background-color: #f7f7f7;
+  height: 50px;
 }
 
 .learn-more h3 {
@@ -80,21 +82,3 @@
   font-size: 13px;
 }
 
-.pics {
-    background-image: url('IMG_20150216_232349.jpg');
-    border-bottom: 3px solid #dbdbdb;
-    border-top: 2px solid #dbdbdb;
-    background-repeat: no-repeat;
-    background-size: cover
-}
-
-.pics h2 {
-    color: #FCFEE5;
-    font-size: 24px;
-}
-
-.pics p {
-    font-size: 15px;
-    margin-bottom: 13px;
-    color: #FCFEE5;
-}
