@@ -1,3 +1,11 @@
+html {
+  background: url(penguins-near-green-tree-background-hd-wallpaper-wallpaper-tree-backround-penguins-near-green-background-hd.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 .nav_bar {
     background-color: #FFFFFF;
     opacity: 0.5;
@@ -15,17 +23,21 @@
   padding-left: 230px;
 }
 
-.loop {
-  padding-top: 45px;
-  height: 500px;
-  background-color: #D80000;
-}
-
 .loop p {
   font-size: 28px;
   color: #3399FF;
-  padding-top: 200px;
-  padding-left: 550px;
+  padding-top: 240px;
+  padding-left: 590px;
+  text-transform: uppercase;
+}
+
+.loop { 
+  background: url(http://www.hdwallpapersos.com/wp-content/uploads/2014/08/wpid-Red-Wallpaper-110.jpg) no-repeat center center fixed; 
+  height: 500px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .jumbotron {
