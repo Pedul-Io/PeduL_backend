@@ -57,14 +57,22 @@ html {
   font-weight: bold;
   color: #FFD6C2;
   text-transform: uppercase;
-  padding-top: 170px;
+  padding-top: 69px;
   padding-left: 110px;
+}
+
+.jumbotron a {
+  font-size: 30px;
+  color: #FFD6C2;
+  padding-top: 75px;
+  padding-left: 110px;
+  text-transform: uppercase;
 }
 
 .jumbotron h6 {
   font-size: 40px;
   text-transform: uppercase;
-  padding-top: 90px;
+  padding-top: 100px;
   padding-left: 250px;
   color: #FFD6C2;
 }
