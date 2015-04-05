@@ -16,8 +16,8 @@
 }
 
 .loop {
-  height: 500px;
   padding-top: 45px;
+  height: 500px;
   background-color: #D80000;
 }
 
@@ -85,7 +85,7 @@
 
 .mission_statement a {
     font-size: 18px;
-    color: #000033;
+    color: #40E0D0;
 }
 
 .learn-more {
