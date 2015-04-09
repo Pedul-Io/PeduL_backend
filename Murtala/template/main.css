@@ -63,10 +63,9 @@ html {
 
 .jumbotron a {
   font-size: 30px;
-  color: #FFD6C2;
-  padding-top: 75px;
+  color: #86C8F1;
+  padding-top: 10px;
   padding-left: 110px;
-  text-transform: uppercase;
 }
 
 .jumbotron h6 {
@@ -74,13 +73,13 @@ html {
   text-transform: uppercase;
   padding-top: 100px;
   padding-left: 250px;
-  color: #FFD6C2;
+  color: #FDD017;
 }
 
 .jumbotron h1 {
   font-size: 140px;
   font-weight: bold;
-  color: #FDD017;
+  color: #2BD25D;
   padding-top: 140px;
   padding-left: 240px;
 }
@@ -88,7 +87,6 @@ html {
 .mission_statement {
     background-image: url('penguins-near-green-tree-background-hd-wallpaper-wallpaper-tree-backround-penguins-near-green-background-hd.jpg');
     height: 800px;
-    border-bottom: 3px solid #dbdbdb;
     border-top: 2px solid #dbdbdb;
     background-repeat: no-repeat;
     background-size: cover;
@@ -109,9 +107,8 @@ html {
 }
 
 .learn-more {
-  background-color: #f7f7f7;
-  height: 50px;
-  padding-bottom: 200px;
+  background-color: #FEFCFF;
+  border-bottom: 3px solid #dbdbdb;
 }
 
 .learn-more h3 {
