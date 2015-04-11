@@ -57,14 +57,14 @@ html {
   font-weight: bold;
   color: #FFD6C2;
   text-transform: uppercase;
-  padding-top: 69px;
+  padding-top: 40px;
   padding-left: 110px;
 }
 
 .jumbotron a {
   font-size: 30px;
-  color: #86C8F1;
-  padding-top: 10px;
+  color: #2BD25D;
+  padding-top: -20px;
   padding-left: 110px;
 }
 
@@ -100,10 +100,14 @@ html {
   color: #993333;
 }
 
+.mission_statement i {
+  text-transform: lowercase;
+}
+
 
 .mission_statement a {
     font-size: 18px;
-    color: #40E0D0;
+    color: #3333CC;
 }
 
 .learn-more {
