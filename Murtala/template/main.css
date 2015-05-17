@@ -55,10 +55,10 @@ html {
 .jumbotron p {
   font-size: 55px;
   font-weight: bold;
-  color: #FFD6C2;
+  color: #6C93CA;
   text-transform: uppercase;
   padding-top: 40px;
-  padding-left: 110px;
+  padding-left: 25px;
 }
 
 .jumbotron a {
