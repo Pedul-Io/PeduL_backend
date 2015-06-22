@@ -8,8 +8,8 @@ html {
 
 .nav_bar {
     background-color: #FFFFFF;
-    opacity: 0.5;
-    position: fixed;
+    opacity: 0.4;
+    position: absolute;
     height:45px;
     width: 100%;
     color: #5a5a5a;
@@ -21,71 +21,39 @@ html {
   text-transform: uppercase;
   display: inline-block;
   padding-left: 230px;
-}
-
-.loop p {
-  font-size: 28px;
-  color: #3399FF;
-  padding-top: 240px;
-  padding-left: 590px;
-  text-transform: uppercase;
-}
-
-.loop { 
-  background: url(http://www.hdwallpapersos.com/wp-content/uploads/2014/08/wpid-Red-Wallpaper-110.jpg) no-repeat center center fixed; 
-  height: 500px;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  padding-top: 11px;
 }
 
 .jumbotron {
-  background-image: url('7adc2313538abb570049b1da90c8d658.jpg');
-  height: 800px;
-  background-repeat: no-repeat;
+  background: linear-gradient(
+      rgba(29, 35, 42, 0.85), 
+      rgba(29, 35, 42, 0.85)
+    ),
+  url(PedulVid30sec.gif) no-repeat center center fixed;
+  height: 810px; 
   background-size: cover;
 }
 
-.jumbotron .container {
-  position: relative;
-  top: 10px;
+.jumbotron h2 {
+  font-size: 70px;
+  text-transform: uppercase;
+  font-weight: 1500;
+  padding-top: 160px;
+  padding-left: 130px;
+  color: #F3F7EE;
 }
 
 .jumbotron p {
-  font-size: 55px;
-  font-weight: bold;
-  color: #6C93CA;
-  text-transform: uppercase;
-  padding-top: 40px;
-  padding-left: 25px;
-}
-
-.jumbotron a {
-  font-size: 30px;
-  color: #2BD25D;
-  padding-top: -20px;
-  padding-left: 110px;
-}
-
-.jumbotron h6 {
-  font-size: 50px;
-  text-transform: uppercase;
-  padding-top: 100px;
-  padding-left: 250px;
-  color: #FDD017;
-}
-
-.jumbotron h1 {
-  font-size: 140px;
-  color: #2BD25D;
-  padding-top: 140px;
-  padding-left: 200px;
+  padding: 0px;
+  margin: 5px 130px; 
+  font-size: 2em; 
+  font-weight: 100;
+  color: #A6B3AD;
 }
 
 .mission_statement {
     background-image: url('penguins-near-green-tree-background-hd-wallpaper-wallpaper-tree-backround-penguins-near-green-background-hd.jpg');
-    height: 800px;
+    height: 810px;
     border-top: 2px solid #dbdbdb;
     background-repeat: no-repeat;
     background-size: cover;
