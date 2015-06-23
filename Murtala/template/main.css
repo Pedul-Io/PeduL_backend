@@ -34,21 +34,32 @@ html {
   background-size: cover;
 }
 
-.jumbotron h2 {
-  font-size: 70px;
+.jumbotron h1 {
+  font-size: 100px;
   text-transform: uppercase;
   font-weight: 1500;
   padding-top: 160px;
   padding-left: 130px;
   color: #F3F7EE;
+  font-family: Impact, 'Franklin Gothic Bold', 'Helvetica Inserat', 'Bitstream Vera Sans Bold', 'Arial Black', 'sans serif';
 }
 
 .jumbotron p {
-  padding: 0px;
   margin: 5px 130px; 
   font-size: 2em; 
-  font-weight: 100;
+  font-weight: 130;
   color: #A6B3AD;
+}
+
+.jumbotron h4 {
+  font-size: 21px;
+  color: #FFFFF0;
+  padding-top: 50px;
+  padding-left: 130px;
+}
+
+.jumbotron .form-group {
+  padding-left: 130px;
 }
 
 .mission_statement {
