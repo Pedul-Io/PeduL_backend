@@ -40,8 +40,17 @@ html {
   font-weight: 1500;
   padding-top: 160px;
   padding-left: 130px;
-  color: #F3F7EE;
+  color: #FFFFFF;
   font-family: Impact, 'Franklin Gothic Bold', 'Helvetica Inserat', 'Bitstream Vera Sans Bold', 'Arial Black', 'sans serif';
+}
+
+.jumbotron strong {
+  color: #00A24B;
+  text-transform: lowercase;
+}
+
+.jumbotron .one {
+  color: #FFFFFF;
 }
 
 .jumbotron p {
@@ -53,7 +62,7 @@ html {
 
 .jumbotron h4 {
   font-size: 21px;
-  color: #FFFFF0;
+  color: #FFFFFF;
   padding-top: 50px;
   padding-left: 130px;
 }
