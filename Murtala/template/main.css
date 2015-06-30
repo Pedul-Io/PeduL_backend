@@ -6,24 +6,6 @@ html {
   background-size: cover;
 }
 
-.nav_bar {
-    background-color: #FFFFFF;
-    opacity: 0.4;
-    position: absolute;
-    height:45px;
-    width: 100%;
-    color: #5a5a5a;
-}
-
-.nav_bar a {
-  font-size: 13px;
-  font-weight: bold;
-  text-transform: uppercase;
-  display: inline-block;
-  padding-left: 230px;
-  padding-top: 11px;
-}
-
 .jumbotron {
   background: linear-gradient(
       rgba(29, 35, 42, 0.85), 
@@ -69,32 +51,6 @@ html {
 
 .jumbotron .form-group {
   padding-left: 130px;
-}
-
-.mission_statement {
-    background-image: url('penguins-near-green-tree-background-hd-wallpaper-wallpaper-tree-backround-penguins-near-green-background-hd.jpg');
-    height: 810px;
-    border-top: 2px solid #dbdbdb;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-
-.mission_statement p {
-  font-size: 20px;
-  text-transform: uppercase;
-  padding-top: 150px;
-  color: #993333;
-}
-
-.mission_statement i {
-  text-transform: lowercase;
-}
-
-
-.mission_statement a {
-    font-size: 18px;
-    color: #3333CC;
 }
 
 .learn-more {
