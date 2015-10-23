@@ -7,7 +7,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV "/cygdrive/c/Users/DanielChen/Documents/GitHub/PeduL/pedulenv"
+setenv VIRTUAL_ENV "/cygdrive/c/Users/Daniel/Documents/GitHub/PeduL/pedulenv"
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/bin:$PATH"

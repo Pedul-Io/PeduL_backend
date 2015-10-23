@@ -32,7 +32,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/cygdrive/c/Users/DanielChen/Documents/GitHub/PeduL/pedulenv"
+set -gx VIRTUAL_ENV "/cygdrive/c/Users/Daniel/Documents/GitHub/PeduL/pedulenv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
