@@ -39,7 +39,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/cygdrive/c/Users/DanielChen/Documents/GitHub/PeduL/pedulenv"
+VIRTUAL_ENV="/cygdrive/c/Users/Daniel/Documents/GitHub/PeduL/pedulenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
